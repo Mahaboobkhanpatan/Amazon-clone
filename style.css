@@ -169,6 +169,7 @@ p{
 .box-content{
     margin-left: 10px;
     margin-right: 10px;
+    border: 2px solid red;
 }
 .box-content p{
     color: #007185;
